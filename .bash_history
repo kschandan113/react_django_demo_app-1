@@ -39,3 +39,25 @@ ls -l
 ls -lart
 cd .ssh
 ls -lart
+sudo apt update
+git status
+git remote add origin https://github.com/kschandan113/react_django_demo_app-1.git
+ls
+git init
+git status
+git add*
+git add .
+git status
+git commit -m "new added file"
+git status
+git remote -v
+git branch
+git puch origin master
+git push origin master
+git remote add origin https://github.com/kschandan113/react_django_demo_app-1.git
+git remote -v
+git push origin master
+git status
+docker ps
+sudo docker ps
+sudo docker ps -a
